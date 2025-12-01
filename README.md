@@ -17,6 +17,8 @@ Place both files in the folder referenced by your `DATA_PATH` environment variab
 
 ## Setup
 
+This project was developed using Python 3.11.14.
+
 Install dependencies:
 
 ```bash
