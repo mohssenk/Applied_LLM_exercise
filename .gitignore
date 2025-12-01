@@ -1,0 +1,14 @@
+# Ignore datasets
+dataset/
+*.parquet
+*.csv
+
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter cache
+.ipynb_checkpoints/
